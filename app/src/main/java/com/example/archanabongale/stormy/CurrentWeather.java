@@ -1,8 +1,10 @@
 package com.example.archanabongale.stormy;
 
+
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.TimeZone;
+
 
 /**
  * Created by archanabongale on 11/1/15.
@@ -117,6 +119,7 @@ public class CurrentWeather {
     public void setSummary(String mSummary) {
         this.mSummary = mSummary;
     }
+
 
 
 }
